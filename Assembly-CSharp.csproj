@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{091BDB93-0751-3ED0-AFF8-0496D69638C0}</ProjectGuid>
+    <ProjectGuid>{DD2395B8-4417-34F1-5860-2D462CCF9FFE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,9 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AssetDownloader.cs" />
      <Compile Include="Assets\MovePlayer.cs" />
-     <Compile Include="Assets\VRSampleScenes\Prefabs\Flyer\Rotate.cs" />
      <Compile Include="Assets\VRSampleScenes\Scripts\Common\SessionData.cs" />
      <Compile Include="Assets\VRSampleScenes\Scripts\Examples\ExampleInteractiveItem.cs" />
      <Compile Include="Assets\VRSampleScenes\Scripts\Examples\ExampleRenderScale.cs" />
